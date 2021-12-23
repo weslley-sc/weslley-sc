@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Weslley👋
 
-- 🔭 Atualmente sou Desenvolvedor Trainee na Solinftec.
-- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas (4/5).
+- 🔭 Atualmente sou Desenvolvedor Trainee na Solinftec🌱.
+- 🧑🏽‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas (4/5).
 - ⚡ Estudando Java, Vuejs e inglês.<img align="rigth" width="2.5%" src="https://media3.giphy.com/media/McUBKCpESJD0F7eqzT/giphy.gif?cid=ecf05e47eesz0jq1dpoh9qxxnepa0wtpc6bcj19qmqwregll&rid=giphy.gif&ct=s"/>
 
 <div align="center">
